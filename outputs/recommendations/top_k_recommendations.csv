@@ -1,0 +1,51 @@
+user_idx,movie_idx,predicted_score,title
+0,4791,0.96412414,"Lord of the Rings: The Return of the King, The (2003)"
+0,2077,0.9566527,"Sixth Sense, The (1999)"
+0,277,0.9514684,"Shawshank Redemption, The (1994)"
+0,507,0.9487512,Terminator 2: Judgment Day (1991)
+0,659,0.9388454,"Godfather, The (1972)"
+0,302,0.92711335,Ace Ventura: Pet Detective (1994)
+0,512,0.9219211,Beauty and the Beast (1991)
+0,334,0.9218035,Speed (1994)
+0,3633,0.9205847,"Lord of the Rings: The Fellowship of the Ring, The (2001)"
+0,123,0.91696846,Apollo 13 (1995)
+50,257,0.98144066,Pulp Fiction (1994)
+50,1938,0.95962423,"Matrix, The (1999)"
+50,418,0.95682126,Jurassic Park (1993)
+50,4791,0.95411396,"Lord of the Rings: The Return of the King, The (2003)"
+50,314,0.95280015,Forrest Gump (1994)
+50,277,0.9372364,"Shawshank Redemption, The (1994)"
+50,910,0.9282441,Star Wars: Episode VI - Return of the Jedi (1983)
+50,546,0.9279499,Mission: Impossible (1996)
+50,97,0.92657554,Braveheart (1995)
+50,509,0.92415136,Batman (1989)
+100,257,0.9880877,Pulp Fiction (1994)
+100,224,0.98377466,Star Wars: Episode IV - A New Hope (1977)
+100,1938,0.9739872,"Matrix, The (1999)"
+100,510,0.97199774,"Silence of the Lambs, The (1991)"
+100,418,0.97196215,Jurassic Park (1993)
+100,4791,0.97032815,"Lord of the Rings: The Return of the King, The (2003)"
+100,314,0.96972096,Forrest Gump (1994)
+100,897,0.9634251,Star Wars: Episode V - The Empire Strikes Back (1980)
+100,277,0.9597696,"Shawshank Redemption, The (1994)"
+100,507,0.9574964,Terminator 2: Judgment Day (1991)
+200,1938,0.9819847,"Matrix, The (1999)"
+200,4791,0.9801838,"Lord of the Rings: The Return of the King, The (2003)"
+200,277,0.97289383,"Shawshank Redemption, The (1994)"
+200,546,0.9676319,Mission: Impossible (1996)
+200,97,0.96727127,Braveheart (1995)
+200,659,0.96487004,"Godfather, The (1972)"
+200,302,0.95734227,Ace Ventura: Pet Detective (1994)
+200,461,0.9569334,Schindler's List (1993)
+200,334,0.9542568,Speed (1994)
+200,398,0.95367354,"Fugitive, The (1993)"
+400,257,0.98575526,Pulp Fiction (1994)
+400,224,0.9804185,Star Wars: Episode IV - A New Hope (1977)
+400,1938,0.9683147,"Matrix, The (1999)"
+400,510,0.9661976,"Silence of the Lambs, The (1991)"
+400,418,0.9655576,Jurassic Park (1993)
+400,897,0.95579755,Star Wars: Episode V - The Empire Strikes Back (1980)
+400,2077,0.95565665,"Sixth Sense, The (1999)"
+400,277,0.9510844,"Shawshank Redemption, The (1994)"
+400,507,0.9476472,Terminator 2: Judgment Day (1991)
+400,97,0.9420405,Braveheart (1995)
